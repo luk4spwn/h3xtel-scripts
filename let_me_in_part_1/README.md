@@ -34,6 +34,8 @@ for char in message:
 
 ![](https://i.imgur.com/aT8cHAk.png)
 
+> n is 256, this number refers to the characters available in the ASCII table.
+
 And finally another for loop where I use Python's range() function to brute force the key.
 
 ``` python
