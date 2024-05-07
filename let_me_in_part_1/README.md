@@ -26,20 +26,6 @@ for i in range(0, 256):
 
 First we create a function called decrypt that takes as arguments the message and a key, then a for loop where we implement the mathematical operation of the Caesar cipher.
 
-
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <msub>
-    <mi>m</mi>
-    <mi>i</mi>
-  </msub>
-  <mo>&#x2261;</mo>
-  <msub>
-    <mi>c</mi>
-    <mi>i</mi>
-  </msub>
-  <mo>&#x2212;</mo>
-  <mi>k</mi>
-  <mtext>&#xA0;(mod&#xA0;</mtext>
-  <mi>n</mi>
-  <mtext>)</mtext>
-</math>
+\begin{equation*}
+m_i \equiv c_i - k \text{ (mod } n \text{)}
+\end{equation*}
