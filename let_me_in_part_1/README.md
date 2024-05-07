@@ -26,4 +26,4 @@ for i in range(0, 256):
 
 First we create a function called decrypt that takes as arguments the message and a key, then a for loop where we implement the mathematical operation of the Caesar cipher.
 
-![](https://i.imgur.com/zxmf1lL.png)
+![](https://i.imgur.com/aT8cHAk.png)
